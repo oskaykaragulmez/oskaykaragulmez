@@ -1,3 +1,9 @@
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm Oskay. I am Data Engineer at OMD Turkey (Media Agency) also guitarist, traveller, cat owner and passionate about learning new things and I'm sharing my projects, works here. 
+
+Best,
+
 ## Connect with me:
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />][linked]
