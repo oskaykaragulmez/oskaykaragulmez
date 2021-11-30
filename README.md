@@ -9,8 +9,7 @@
 
 <br/>
 
-## Technology Stack:
-<br/>
+## Technology Stack:<br/>
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][blog]
 [<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png" />][blog]
