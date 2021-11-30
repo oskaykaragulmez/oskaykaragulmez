@@ -18,6 +18,7 @@
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][blog]
 <br/>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=oskaykaragulmez&show_icons=true&theme=merko) 
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskaykaragulmez)](https://github.com/anuraghazra/github-readme-stats)
