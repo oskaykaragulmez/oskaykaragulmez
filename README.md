@@ -26,7 +26,7 @@ Best,
 <br/>
 <br/>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=oskaykaragulmez&show_icons=true&theme=navyblue) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=oskaykaragulmez&show_icons=true&theme=noctis_minimus) 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskaykaragulmez)](https://github.com/anuraghazra/github-readme-stats)
