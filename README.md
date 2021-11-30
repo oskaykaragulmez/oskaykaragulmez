@@ -2,6 +2,7 @@
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" />][linked]
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=red" />][youtube]
 [<img align="left" alt="kaggle" src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue" />][kaggle]
+<br/>
 [blog]: https://medium.com/@oskay.karagulmez
 [linked]: https://www.linkedin.com/in/oskaykaragulmez/
 [kaggle]: https://www.kaggle.com/oskaykaragulmez
