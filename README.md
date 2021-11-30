@@ -7,6 +7,8 @@
 [linked]: https://www.linkedin.com/in/oskaykaragulmez
 [kaggle]: https://www.kaggle.com/oskaykaragulmez
 
+<br/>
+
 ## Technology Stack:
 
 <br/>
