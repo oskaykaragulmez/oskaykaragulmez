@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Oskay, Data Engineer at OMD Turkey, guitarist, traveller, cat owner and passionate about learning new things and I'm sharing my projects, works here. 
+I'm Oskay, Data Engineer at OMD Turkey, guitarist, traveller, cat owner, passionate about learning new things and I'm sharing my projects, works here. 
 
 Best,
 
