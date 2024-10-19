@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Oskay, Data Engineer, guitarist, traveller, cat owner, passionate about learning new things and I'm sharing my projects, works here.
+I'm Oskay, cloud data engineer, guitarist, traveller, cat owner, passionate about learning new things and I'm sharing my projects, works here.
 
 Basically what I do is to get the data from A to B and all the engineering behind it to get clean, understandable, ready to use. With a passion for turning data into actionable insights, I lead cloud operations and data analytics projects that drive efficiency and performance. Moreover, I like to make things automate, make friends' lives easier and valuable :D
 
