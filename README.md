@@ -2,7 +2,7 @@
 
 I'm Oskay, Data Engineer, guitarist, traveller, cat owner, passionate about learning new things and I'm sharing my projects, works here.
 
-Basically what I do as data engineer is get the data from A to B and all the engineering behind it to get clean, understandable, ready to use. Moreover, I like to make things automate, make friends' lives easier and valuable :D
+Basically what I do is to get the data from A to B and all the engineering behind it to get clean, understandable, ready to use. With a passion for turning data into actionable insights, I lead cloud operations and data analytics projects that drive efficiency and performance. Moreover, I like to make things automate, make friends' lives easier and valuable :D
 
 Best,
 
@@ -23,7 +23,6 @@ Best,
 [<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/991px-R_logo.svg.png" />][blog]
 [<img align="left" alt="GCP" width="50px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" />][blog]
 [<img align="left" alt="SQL" width="30px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />][blog]
-[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][blog]
 
 <br/>
 <br/>
